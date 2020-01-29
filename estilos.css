@@ -44,7 +44,7 @@ body {
   }
   
   p.Enseñar {
-    border-color: black black black red;
+    border-color: black red;
     border-width: 10px 40px 20px;
     border-style: dotted solid dashed double;
   }
